@@ -287,7 +287,7 @@ function getAvg(grades) {
 
 
 const result = getLearnerData(CourseInfo, AssignmentGroup, LearnerSubmissions);
-console.log
+console.log (result)
 
 //   const result = [
   //     {
